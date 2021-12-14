@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   etl:
   - apiVersion: v2
-    created: "2021-12-13T17:57:44.839467-05:00"
+    created: "2021-12-13T21:29:07.872726-05:00"
+    description: A Helm chart for Kubernetes to run Supercluster ETL as cronjob
+    digest: bee99418f3402afe1cf48655a9110e915f4c6118ae44ffe359389feb8717cd2c
+    name: etl
+    type: application
+    urls:
+    - https://supercluster-covid-data-portal.github.io/charts/etl-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    created: "2021-12-13T21:29:07.871753-05:00"
     description: A Helm chart for Kubernetes to run Supercluster ETL as cronjob
     digest: 10314c69e0f2d34d3e36a1fcad188590a27ee364a6001114d03de94842a58f81
     name: etl
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://supercluster-covid-data-portal.github.io/charts/etl-1.0.0.tgz
     version: 1.0.0
-generated: "2021-12-13T17:57:44.837545-05:00"
+generated: "2021-12-13T21:29:07.869735-05:00"
